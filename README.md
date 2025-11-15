@@ -25,3 +25,5 @@ Focused on analytics, dashboarding, and end-to-end problem solving.
 
 📬 Contact:
 shubhampradhan092002@gmail.com  
+Linkedin:
+linkedin.com/in/shubham-pradhan-416a7a329
