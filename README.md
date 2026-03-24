@@ -22,7 +22,7 @@ I turn business data into actionable decisions. With hands-on experience in SQL,
 ### 🏡 Airbnb Pricing Analysis
 - Analyzed 50K+ listings; built regression model explaining ~70–75% price variance  
 - Identified pricing drivers to optimize revenue and occupancy  
-🔗 [View Project](#)
+🔗 [[View Project](#)]([url](https://github.com/Shubham9902/Airbnb-Pricing-Demand-Analysis-Python-))
 
 ---
 
