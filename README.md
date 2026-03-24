@@ -1,28 +1,34 @@
-# Readme.md
-👋 Hi, I'm Shubham Pradhan  
-📊 Data Analyst | SQL • Power BI • Excel • Python  
+# Shubham Pradhan  
+Business Analyst | Data Analytics | SQL • Power BI • Python  
 
-I turn raw data into clear insights and business decisions.  
-Focused on analytics, dashboarding, and end-to-end problem solving.
+I turn business data into actionable decisions. With hands-on experience in SQL, Power BI, and Python, I analyze customer behavior, revenue patterns, and operational performance to uncover insights that drive growth and efficiency.
 
-🔍 What I work on:
-- Data cleaning, EDA, KPI analysis  
-- SQL-based reporting and automation  
-- Power BI dashboards with DAX  
-- Python data analysis (Pandas, NumPy)  
-- Marketing & sales analytics  
+## 🔍 Featured Projects
 
-📁 Featured Projects:
-- 🍕 Pizza Sales Analysis (SQL): Trend analysis, revenue drivers, SKU performance  
-- 🛒 Walmart Retail Analytics (SQL + Power BI): Branch KPIs, customer segmentation  
-- 📈 Lead Conversion Dashboard (Power BI): Funnel insights, DAX measures  
-- 🧹 KPMG Data Quality Project (Excel): Cleaning, validation, Power Query workflows  
+### 📊 Customer Churn Prediction
+- Built ML model (~82–85% accuracy) identifying high-risk customers (~30% revenue impact)
+- Developed retention-focused insights to reduce churn and improve customer lifetime value  
+🔗 [View Project](#)
 
-🚀 Goals:
-- Build stronger machine learning and statistical projects  
-- Contribute to open-source analytics/code repositories  
-- Develop a polished portfolio for a Data Analyst / BI Analyst role  
+---
 
-📬 Contact:
-shubhampradhan092002@gmail.com  
+### 📈 Sales & Operations Analysis
+- Analyzed 90K+ transactions; identified top 20% products driving ~65% revenue  
+- Built Power BI dashboard for KPI tracking and demand insights  
+🔗 [View Project](#)
 
+---
+
+### 🏡 Airbnb Pricing Analysis
+- Analyzed 50K+ listings; built regression model explaining ~70–75% price variance  
+- Identified pricing drivers to optimize revenue and occupancy  
+🔗 [View Project](#)
+
+---
+
+## 🛠️ Skills
+SQL • Power BI • Python • Excel • Machine Learning • Data Visualization  
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/shubham-pradhan-416a7a329/
+- Email: shubhampradhan092002@gmail.com
